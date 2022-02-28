@@ -28,7 +28,11 @@ tr#bold {
 .table-container td {
   padding: 14px 0;
   text-align: center;
+<<<<<<< HEAD
   color: #000000a6;
+=======
+  color: #050505;
+>>>>>>> 9be36ed3f8ca9a389e4e0fa891ef8196957f6992
   font-size: 18px;
   /* border: 1px solid #707070; */
 }
